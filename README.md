@@ -1,5 +1,6 @@
 # Slider estilo Banner
 ### Baixe este repositório e faça um teste!
+- git clone https://github.com/paulorafaeljobs/Slider
 ### Código de exemplo:
 ```html
 <link rel="stylesheet" href="src/Banner.css">
@@ -11,3 +12,4 @@
 </div>
 <script src="src/Banner.js"></script>
 ```
+<a href='https://paulorafaeljobs.github.io/Slider/'>Demonstração</a>
